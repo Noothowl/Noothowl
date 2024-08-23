@@ -32,8 +32,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noothowl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&custom_title=Noothowl's%20Stats" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noothowl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&custom_title=Noothowl's%20Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Noothowl&locale=en&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noothowl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&custom_title=My%20Current%20Languages" height="150" alt="languages graph"  />
 </div>
