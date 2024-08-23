@@ -14,9 +14,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media1.tenor.com/m/GZTYJ2-kP74AAAAd/cat-kitten.gif"  />
-
-###
+<br clear="both">
 
 <h2 align="left">About Me</h2>
 
@@ -116,5 +114,11 @@
 ###
 
 <h2 align="center">Thanks for reading</h2>
+
+###
+
+<div align="center">
+  <img height="250" src="https://media1.tenor.com/m/GZTYJ2-kP74AAAAd/cat-kitten.gif"  />
+</div>
 
 ###
