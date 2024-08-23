@@ -8,6 +8,20 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+###
+
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Noothowl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Noothowl&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
