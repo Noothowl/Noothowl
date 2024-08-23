@@ -2,13 +2,15 @@
 
 <h2 align="left">Hi! My name is Martín Jesús and I'm a Software Engineer and Jr.Developer from Chile</h2>
 
-<div style="margin-top: 20px;">
-    <img align="left" height="150" src="https://i.pinimg.com/564x/65/7f/17/657f177ec1ad06c1df0523a218ad3e74.jpg" />
-</div>
+<!-- Adding a line break to move the image down -->
+<br>
+
+<img align="left" height="150" src="https://i.pinimg.com/564x/65/7f/17/657f177ec1ad06c1df0523a218ad3e74.jpg" />
 
 <h2 align="left">About me</h2>
 
 <p align="left">✨ Creating bugs since 2002<br>📚 I'm currently specializing GameDev on UE5 with CPP<br>🎯 Goals: Cloud Service Engineer and Pro GameDev<br>🎲 Random fact: I'm pretty acquainted with 3D art tools [Blender, UE vfx]</p>
+
 
 
 ###
