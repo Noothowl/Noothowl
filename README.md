@@ -1,6 +1,6 @@
-# About Noothowl ☝️🤓
+# Noothowl's Profile ☝️🤓
 
-<h2 align="left">Hi! My name is Martín Jesús and I'm a Software Engineer and Developer from Chile</h2>
+<h2 align="left">Hi! My name is Martín Jesús and I'm a Software Engineer and Jr.Developer from Chile</h2>
 
 ###
 
@@ -10,15 +10,8 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently specializing GameDev on UE5 with CPP<br>🎯 Goals: Cloud Service Engineer and Pro GameDev
+<br>🎲 Random fact: I'm pretty acquainted with 3D art tools [Blender, UE vfx] </p>
 
 ###
 
@@ -27,6 +20,12 @@
   <img src="https://streak-stats.demolab.com?user=Noothowl&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noothowl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+###
+
+<h2 align="left">I know about</h2>
 
 ###
 
