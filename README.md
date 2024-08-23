@@ -2,8 +2,7 @@
 
 <h2 align="left">Hi! My name is Martín Jesús and I'm a Software Engineer and Jr.Developer from Chile</h2>
 
-
-<img align="left" height="150" src="https://i.pinimg.com/564x/65/7f/17/657f177ec1ad06c1df0523a218ad3e74.jpg"  />
+<img align="left" height="150" src="https://i.pinimg.com/564x/65/7f/17/657f177ec1ad06c1df0523a218ad3e74.jpg" style="margin-top: 10px;" />
 
 
 <h2 align="left">About me</h2>
