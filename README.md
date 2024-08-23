@@ -2,11 +2,9 @@
 
 <h2 align="left">Hi! My name is Martín Jesús and I'm a Software Engineer and Jr.Developer from Chile</h2>
 
-###
 
 <img align="left" height="150" src="https://i.pinimg.com/564x/65/7f/17/657f177ec1ad06c1df0523a218ad3e74.jpg"  />
 
-###
 
 <h2 align="left">About me</h2>
 
@@ -48,6 +46,12 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
 </div>
+
+###
+
+###
+
+<h2 align="left">If you wanna contact me</h2>
 
 ###
 
