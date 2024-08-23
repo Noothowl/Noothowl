@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">On the other hand, I know about</h2>
+<h2 align="left">On the other hand, I also know about</h2>
 
 ###
 
