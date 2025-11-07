@@ -35,6 +35,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Noothowl&show_icons=true&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&icon_color=00ff7f&border_color=1f2328&hide_border=true" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noothowl&layout=compact&langs_count=8&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&border_color=1f2328&hide_border=true" alt="Top Languages" />
 </p>
+
 > Some repositories are private (internships, proprietary frameworks).  
 > I publish write-ups, diagrams, and safe excerpts whenever possible.
 
