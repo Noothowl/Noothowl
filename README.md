@@ -44,7 +44,7 @@
 ## 📬 Contact
 - ✉️ **martinchipoco@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-jes%C3%BAs-chipoco/)  
-- 🧾 [CV PDF](https://noothowl.github.io/cv-portfolio/assets/cv.pdf)  
+- 🧾 [CV PDF](https://noothowl.github.io/CV-Portfolio/assets/cv.pdf)  
 - 🎮 [Itch.io](https://noothowl.itch.io)  
 
 ---
