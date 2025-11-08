@@ -15,8 +15,7 @@
 
 ### 🚀 Currently working on
 - 🎮 **VoD Framework** — custom modular UE5 build (GAS, data-driven) - for **TyrantTeam7** 
-- 🧱 **Licht Rayders** — indie UE5 mvp prototype with modular gameplay patterns  - Standby
-  👉 [noothowl.itch.io/licht-rayders](https://noothowl.itch.io/licht-rayders)
+- 🧱 **Licht Rayders** — indie UE5 mvp prototype with modular gameplay patterns  - 👉 [noothowl.itch.io/licht-rayders](https://noothowl.itch.io/licht-rayders)
 
 ---
 
