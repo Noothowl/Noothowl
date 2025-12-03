@@ -20,7 +20,7 @@
 ---
 
 ### 🎮 Philosophy
-> “Software architecture is as creative as art — the only difference is that it compiles.”
+> “Porgrammers are creative too”
 
 ---
 
