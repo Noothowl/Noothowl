@@ -9,7 +9,7 @@
 ### 🧩 What I do
 - **UE5 + GAS:** designing and developing modular, data-driven systems that *don’t break the designers* 😅  
 - **Tooling / DevEx:** solid workflows (Git LFS + locking, CI/CD, living documentation)  
-- **Full-stack when needed:** React · Express · Prisma · Docker · AWS  
+- **Full-stack when needed:** React · Express · Prisma · Docker · AWS · Laravel · Services    
 
 ---
 
@@ -27,16 +27,28 @@
 ## ⚡ Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noothowl&bg_color=0a0c0d&color=00ff7f&line=00ff7f&point=00ff7f&area=true&area_color=07381f&hide_border=true" alt="Activity graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Noothowl&theme=react-dark&hide_border=true&area=true" 
+    alt="Activity graph" 
+  />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Noothowl&show_icons=true&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&icon_color=00ff7f&border_color=1f2328&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noothowl&layout=compact&langs_count=8&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&border_color=1f2328&hide_border=true" alt="Top Languages" />
+  <img 
+    height="150" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noothowl&show_icons=true&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&icon_color=00ff7f&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    height="150" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noothowl&layout=compact&langs_count=8&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
 
 > Some repositories are private (internships, proprietary frameworks).  
 > I publish write-ups, diagrams, and safe excerpts whenever possible.
+
 
 ---
 
