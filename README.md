@@ -28,26 +28,24 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Noothowl&theme=react-dark&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Noothowl&bg_color=0a0c0d&color=00ff7f&line=00ff7f&point=00ff7f&area=true&area_color=07381f&hide_border=true" 
     alt="Activity graph" 
   />
 </p>
 
-<p align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?      username=Noothowl&show_icons=true&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&icon_color=00ff7f&hide_border=true**&cache_bust=202512031153**"
-    alt="GitHub Stats"
-/>
-  <img
-    height="150"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noothowl&layout=compact&langs_count=8&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&hide_border=true**&cache_bust=202512031153**"
-    alt="Top Languages"
-/>
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=noothowl&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=noothowl&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noothowl&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 > Some repositories are private (internships, proprietary frameworks).  
 > I publish write-ups, diagrams, and safe excerpts whenever possible.
+> 
+---
+
+[![](https://visitcount.itsvg.in/api?id=noothowl&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Stats with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 
 ---
