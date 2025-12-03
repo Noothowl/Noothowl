@@ -28,19 +28,27 @@
 
 <p align="center">
   <img 
-    height="150" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noothowl&show_icons=true&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&icon_color=00ff7f&hide_border=true" 
-    alt="GitHub Stats" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Noothowl&theme=react-dark&hide_border=true&area=true" 
+    alt="Activity graph" 
   />
-  <img 
-    height="150" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noothowl&layout=compact&langs_count=8&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&hide_border=true" 
-    alt="Top Languages" 
-  />
+</p>
+
+<p align="center">
+  <img
+    height="150"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?      username=Noothowl&show_icons=true&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&icon_color=00ff7f&hide_border=true**&cache_bust=202512031153**"
+    alt="GitHub Stats"
+/>
+  <img
+    height="150"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noothowl&layout=compact&langs_count=8&bg_color=0a0c0d&title_color=00ff7f&text_color=c9f4e5&hide_border=true**&cache_bust=202512031153**"
+    alt="Top Languages"
+/>
 </p>
 
 > Some repositories are private (internships, proprietary frameworks).  
 > I publish write-ups, diagrams, and safe excerpts whenever possible.
+
 
 ---
 
